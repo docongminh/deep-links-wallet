@@ -1,0 +1,23 @@
+{
+  "name": "deep-links-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docongminh/deep-links-wallet.git"
+  },
+  "author": "@minhdocs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docongminh/deep-links-wallet/issues"
+  },
+  "homepage": "https://github.com/docongminh/deep-links-wallet#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.44.2",
+    "bs58": "^5.0.0"
+  }
+}
